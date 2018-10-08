@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 SECS=$1
 if [ "$SECS" = "" ]
